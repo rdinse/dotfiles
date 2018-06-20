@@ -1,0 +1,25 @@
+org.gnu.Emacs public.plain-text all
+org.gnu.Emacs .php all
+org.gnu.Emacs .py all
+org.gnu.Emacs .js all
+org.gnu.Emacs .css all
+org.gnu.Emacs .xml all
+org.gnu.Emacs .dat all
+org.gnu.Emacs .org all
+org.gnu.Emacs .tex all
+org.gnu.Emacs .cpp all
+org.gnu.Emacs .c all
+org.gnu.Emacs .h all
+org.gnu.Emacs .lisp all
+org.gnu.Emacs .el all
+org.gnu.Emacs public.shell-script all
+org.gnu.Emacs .md all
+org.videolan.vlc .mkv all
+org.videolan.vlc .mp3 all
+org.videolan.vlc .mp4 all
+org.videolan.vlc .avi all
+org.videolan.vlc .ogg all
+org.videolan.vlc .m4a all
+org.inkscape.Inkscape .svg all
+com.apple.ScriptEditor.bioequity.iPyNbViewer .ipynb all
+
